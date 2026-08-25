@@ -1,14 +1,14 @@
 ---
-user-guide-title: 新しいテンプレートガイド
-user-guide-description: 新しいガイドの説明をここに追加します。
-source-git-commit: b4c7e81269675ba5072477986b4a11e1e31c33bb
+user-guide-title: ブランドの可視性チュートリアル
+user-guide-description: ブランドの可視性チュートリアル
+source-git-commit: f7262325ce9f76ff99dbcb6e3e0519d2f2aaeaa5
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '10'
+ht-degree: 10%
 
 ---
 
 
-# 新しいテンプレートガイド {#tutorials}
+# ブランドの可視性チュートリアル {#tutorials}
 
 + [概要](overview.md)
