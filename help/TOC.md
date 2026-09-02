@@ -1,7 +1,7 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# ブランドの可視性チュートリアル {#tutorials}
+# ブランドの可視性大学 {#tutorials}
 
 + [概要](overview.md)
 + [Bing ウェブマスターツール AI パフォーマンスレポート](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
