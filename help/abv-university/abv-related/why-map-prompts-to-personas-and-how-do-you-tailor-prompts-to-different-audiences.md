@@ -34,4 +34,4 @@ ht-degree: 0%
 * 意思決定者や学生など、ペルソナごとにトピックをクラスター化する方法
 * オーディエンス全体の可視性を平均することで、自社の認知度が低下する理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502796/?captions=jpn&learn=on){transcript=true}

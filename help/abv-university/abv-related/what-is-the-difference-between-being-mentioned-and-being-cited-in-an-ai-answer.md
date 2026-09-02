@@ -34,4 +34,4 @@ ht-degree: 0%
 * 検索（RAG）が実際の引用を生成する方法
 * 引用が、自社が証拠として使用されたことを示す強力なシグナルである理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502841/?captions=jpn&learn=on){transcript=true}

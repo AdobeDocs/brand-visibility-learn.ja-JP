@@ -34,4 +34,4 @@ AIの回答は、モデルが更新されweb サイトが移動するにつれ�
 * 不適切なサードパーティ情報が顧客体験を低下させる可能性
 * 週次モニタリングが毎日利用可能な実用的な頻度である理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502742/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502814/?captions=jpn&learn=on){transcript=true}

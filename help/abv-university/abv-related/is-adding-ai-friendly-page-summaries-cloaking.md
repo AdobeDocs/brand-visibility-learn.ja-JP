@@ -34,4 +34,4 @@ ht-degree: 0%
 * エッジ最適化が現在、検索web クローラーではなくAI ボットにのみサービスを提供している方法
 * CDNから数秒で最適化をロールバックする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502862/?captions=jpn&learn=on){transcript=true}

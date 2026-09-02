@@ -34,4 +34,4 @@ ht-degree: 0%
 * 同じプロンプトがユーザーや日ごとに異なるトーンを返す理由
 * Adobe Brand Visibilityがプロンプトごとにセンチメントを追跡する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502877/?captions=jpn&learn=on){transcript=true}

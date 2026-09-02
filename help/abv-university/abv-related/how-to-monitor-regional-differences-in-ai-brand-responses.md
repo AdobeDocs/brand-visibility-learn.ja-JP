@@ -34,4 +34,4 @@ AI アシスタントは、利用者がどこにいると思うかによって�
 * プロンプト自体に場所を書き込むことが、実際のユーザー行動に最も一致する理由
 * どこから始めればよいのか、このアプローチが業界にどのように適用されるのか
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502752/?captions=jpn&learn=on){transcript=true}

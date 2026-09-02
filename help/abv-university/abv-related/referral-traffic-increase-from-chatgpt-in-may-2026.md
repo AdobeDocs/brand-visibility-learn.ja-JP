@@ -34,4 +34,4 @@ Adobeのデータによると、ChatGPTからのリファラルトラフィッ�
 * ChatGPTが再びブランドチャネルだけでなく、トラフィックチャネルであることを意味します
 * URL インスペクターの新しいリファラルトラフィック機能がこれを表示する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502909/?captions=jpn&learn=on){transcript=true}

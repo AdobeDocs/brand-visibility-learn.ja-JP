@@ -34,4 +34,4 @@ ht-degree: 0%
 * 適用した提案と開いている提案を確認する場所
 * 最適化をロールバックする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502728/?captions=jpn&learn=on){transcript=true}

@@ -34,4 +34,4 @@ ht-degree: 0%
 * Web クローラーがコンテンツに容易にアクセスし、理解できるようにする方法
 * Adobe Brand Visibilityがサードパーティの引用を表示して連携させる方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502850/?captions=jpn&learn=on){transcript=true}
