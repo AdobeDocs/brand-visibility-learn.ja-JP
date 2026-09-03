@@ -1,7 +1,7 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: a58a18356740f85b2b520130bdef5cea6255120a
+source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -12,10 +12,10 @@ ht-degree: 0%
 # ブランドの可視性大学 {#tutorials}
 
 + [概要](overview.md)
++ [LLMの仕組み：マーケターガイド](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing ウェブマスターツール AI パフォーマンスレポート](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Web サイト全体を最適化する必要があるか？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [信頼性の高い、繰り返し可能なGEO インサイトのプロンプトの作成](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [LLMの仕組み：マーケターガイド](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [AIによるブランド回答の地域的な違いを監視する方法](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [低エージェンティックトラフィック領域に対するブランド権限の強化](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [Aiに適したページ概要を追加するとクロージングが発生しますか？](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
