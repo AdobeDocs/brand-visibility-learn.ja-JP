@@ -1,9 +1,9 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: f7dedef089456496058820b1597e5e5c1724daf1
+source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 # ブランドの可視性大学 {#tutorials}
 
 + [概要](overview.md)
++ [概要（ランディングカードテスト）](overview-landing-cards.md)
 + [LLMの仕組み：マーケターガイド](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing ウェブマスターツール AI パフォーマンスレポート](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Web サイト全体を最適化する必要があるか？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
