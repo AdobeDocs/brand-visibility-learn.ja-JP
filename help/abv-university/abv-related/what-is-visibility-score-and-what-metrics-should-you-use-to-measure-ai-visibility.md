@@ -51,4 +51,4 @@ ht-degree: 0%
 * スコアが1人で行動するのが難しい北星である理由
 * メンション、引用、エージェント、リファラルトラフィックなど、ペアにする指標
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502904/?captions=jpn&learn=on){transcript=true}

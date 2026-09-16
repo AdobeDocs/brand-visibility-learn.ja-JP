@@ -46,4 +46,4 @@ ht-degree: 0%
 * オフサイトにプッシュする前に、独自のコンテンツを正確かつ一貫性のある方法で提供したい
 * オフサイトの機会（引用センチメント、Wikipedia、Reddit、YouTube）と、バックリンクやレビューなどの古典的な手段が権威を築く方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502778/?captions=jpn&learn=on){transcript=true}

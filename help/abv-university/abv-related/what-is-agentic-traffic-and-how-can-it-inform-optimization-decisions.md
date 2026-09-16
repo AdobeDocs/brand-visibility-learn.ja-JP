@@ -54,4 +54,4 @@ ht-degree: 0%
 * コンテンツ可視性ワード数が、AIが実際にどの程度の量を見ているかを示す方法
 * 担当者が、特にフォームやインタラクションで明確なページ構造を必要とする理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502738/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502769/?captions=jpn&learn=on){transcript=true}

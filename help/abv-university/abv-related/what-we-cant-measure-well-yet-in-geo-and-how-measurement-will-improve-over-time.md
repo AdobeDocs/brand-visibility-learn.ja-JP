@@ -50,4 +50,4 @@ ht-degree: 0%
 * 共通の単語であるブランド名を検出するのが難しい理由
 * 測定が、常に改善し続ける継続的な改善である理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502859/?captions=jpn&learn=on){transcript=true}

@@ -49,4 +49,4 @@ CDNに配置されているEdgeで最適化し、AI ボットにページのプ�
 * 事前にレンダリングされたHTMLが、ユーザーではなくAI ボットにのみ提供される仕組み
 * 挿入された要約と目次がボットがページを理解するのに役立つ方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502787/?captions=jpn&learn=on){transcript=true}

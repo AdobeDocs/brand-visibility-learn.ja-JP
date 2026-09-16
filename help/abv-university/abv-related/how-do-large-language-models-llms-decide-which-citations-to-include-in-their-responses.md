@@ -46,4 +46,4 @@ LLMは、単一のプロンプトを多数の小さなクエリに展開し、�
 * 一貫性のあるカバレッジが単一のナンバーワンランキングに勝つことができる理由
 * トピックに関する詳細なコンテンツと強力なSEOが、引き続き顧客の関心を惹く理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502823/?captions=jpn&learn=on){transcript=true}

@@ -45,4 +45,4 @@ AI アシスタントは、トレーニングデータから回答するか、�
 * なぜいくつかの引用が幻覚になり、404sにつながる可能性があります
 * モデル生成テキストから実際に取得したソースを区別する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502832/?captions=jpn&learn=on){transcript=true}

@@ -51,4 +51,4 @@ ht-degree: 0%
 * コンテンツを読みやすくすることがマニピュレーションではない理由
 * CDN内を走らせることで、これが自然で低リスクのプロセスになる理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502727/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502805/?captions=jpn&learn=on){transcript=true}

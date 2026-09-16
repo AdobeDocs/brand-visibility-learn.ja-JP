@@ -51,4 +51,4 @@ LLM エクスペリエンスは、クロール、インデックス作成、レ�
 * 一貫性のない規範的な要素、ペイウォール、ログインウォールがAI アクセスを制限する理由
 * クライアント側のレンダリングがコンテンツを非表示にする方法と、コンテンツの可視性を復元してコンテンツを修正する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502923/?captions=jpn&learn=on){transcript=true}
