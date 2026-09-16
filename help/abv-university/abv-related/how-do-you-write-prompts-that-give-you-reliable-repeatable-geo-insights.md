@@ -8,8 +8,8 @@ doc-type: Value Video
 duration: 161
 last-substantial-update: 2026-09-02
 jira: KT-22505
-nudge: edit1
-source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
+nudge: edit2
+source-git-commit: e92826dfcba6e0269a5dd6557ac7690278829ba2
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 * プロンプトとその意図をバージョン管理されたログに記録することで、時間の経過とともにプロンプトの精度が向上する理由
 * 顧客設定にプロンプトをアップロードする方法、および頻繁な変更が過去のスコアに影響を与える理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502743/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
