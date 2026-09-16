@@ -6,15 +6,27 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 178
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22525
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+TQID: 'https://experienceleague.adobe.com/t6E-d79QhISATtkakV66O6NUga7PCBcgEAaylmUjdCc'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: c898dfb2-0885-42fb-b2af-b2d756752646
+    internal-label: Best practices
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
-
 ---
-
 # AIの回答でセンチメントが重要な理由と、センチメント分析で見落としがちな点とは？
 
 センチメントは、言葉の感情的な方向性であり、AIの回答が自社をどのように表現するかを形作ります。 このビデオでは、センチメント分析が重要な理由と、どこで問題が発生する可能性があるのかを説明します。
@@ -34,4 +46,4 @@ ht-degree: 0%
 * 同じプロンプトがユーザーや日ごとに異なるトーンを返す理由
 * Adobe Brand Visibilityがプロンプトごとにセンチメントを追跡する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502877/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
