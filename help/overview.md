@@ -33,7 +33,7 @@ Adobe Brand Visibility大学は、実践的な価値を提供するショート�
 
 ::::landing-cards-container
 :::card
-![LLMの仕組み：マーケター向けガイド ](/help/assets/overview/how-llms-work-a-marketers-guide.png)
+![LLMの仕組み：マーケター向けガイド &#x200B;](/help/assets/overview/how-llms-work-a-marketers-guide.png)
 
 LLMの仕組み：マーケターガイド
 
@@ -51,7 +51,7 @@ LLMの仕組み：マーケターガイド
 [視聴](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
 :::
 :::card
-![ ペルソナとオーディエンスへのプロンプトのマッピング ](/help/assets/overview/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.png)
+![&#x200B; ペルソナとオーディエンスへのプロンプトのマッピング &#x200B;](/help/assets/overview/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.png)
 
 プロンプトのペルソナおよびオーディエンスへのマッピング
 
@@ -164,7 +164,7 @@ AIを活用した可視化のための可視性スコアと指標
 [視聴](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
 :::
 :::card
-![ エージェント型トラフィックと最適化決定](/help/assets/overview/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.png)
+![&#x200B; エージェント型トラフィックと最適化決定](/help/assets/overview/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.png)
 
 エージェント型トラフィックと最適化決定
 
@@ -182,7 +182,7 @@ GEOではまだ測定できないものと、それが改善する方法
 [視聴](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
 :::
 :::card
-![Bing Web マスターツール AI パフォーマンス レポート ](/help/assets/overview/bing-webmaster-tools-ai-performance-report.png)
+![Bing Web マスターツール AI パフォーマンス レポート &#x200B;](/help/assets/overview/bing-webmaster-tools-ai-performance-report.png)
 
 Bing ウェブマスターツール AI パフォーマンスレポート
 
