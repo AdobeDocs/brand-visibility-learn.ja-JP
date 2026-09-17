@@ -28,7 +28,7 @@ ht-degree: 3%
 Adobe Brand Visibility大学は、実践的な価値を提供するショート動画のライブラリを提供しています。このライブラリでは、AI 検索モデルや大規模言語モデルの仕組み、AIを利用して自社の認知度と評価を高める方法を解説します。 以下のトピックで参照してください。
 
 >[!NOTE]
->完全なドキュメントについては、[Adobe Brand Visibility ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)を参照してください。
+>完全なドキュメントについては、[Adobe Brand Visibility ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/brand-visibility/using/home)を参照してください。
 
 ## 基礎：AI 検索の仕組み {#foundations}
 
