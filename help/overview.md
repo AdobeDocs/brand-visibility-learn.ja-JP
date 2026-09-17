@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '863'
 ht-degree: 3%
 ---
 
@@ -27,13 +27,16 @@ ht-degree: 3%
 
 Adobe Brand Visibility大学は、実践的な価値を提供するショート動画のライブラリを提供しています。このライブラリでは、AI 検索モデルや大規模言語モデルの仕組み、AIを利用して自社の認知度と評価を高める方法を解説します。 以下のトピックで参照してください。
 
+>[!NOTE]
+>完全なドキュメントについては、[Adobe Brand Visibility ドキュメント ](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)を参照してください。
+
 ## 基礎：AI 検索の仕組み {#foundations}
 
 大規模言語モデルとAI アシスタントが、コンテンツをどのように検索、使用、引用するのかを把握するには、ここから始めましょう。
 
 ::::landing-cards-container
 :::card
-![LLMの仕組み：マーケター向けガイド &#x200B;](/help/assets/overview/how-llms-work-a-marketers-guide.png)
+![LLMの仕組み：マーケター向けガイド ](/help/assets/overview/how-llms-work-a-marketers-guide.png)
 
 LLMの仕組み：マーケターガイド
 
@@ -51,7 +54,7 @@ LLMの仕組み：マーケターガイド
 [視聴](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
 :::
 :::card
-![&#x200B; ペルソナとオーディエンスへのプロンプトのマッピング &#x200B;](/help/assets/overview/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.png)
+![ ペルソナとオーディエンスへのプロンプトのマッピング ](/help/assets/overview/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.png)
 
 プロンプトのペルソナおよびオーディエンスへのマッピング
 
@@ -164,7 +167,7 @@ AIを活用した可視化のための可視性スコアと指標
 [視聴](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
 :::
 :::card
-![&#x200B; エージェント型トラフィックと最適化決定](/help/assets/overview/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.png)
+![ エージェント型トラフィックと最適化決定](/help/assets/overview/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.png)
 
 エージェント型トラフィックと最適化決定
 
@@ -182,7 +185,7 @@ GEOではまだ測定できないものと、それが改善する方法
 [視聴](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
 :::
 :::card
-![Bing Web マスターツール AI パフォーマンス レポート &#x200B;](/help/assets/overview/bing-webmaster-tools-ai-performance-report.png)
+![Bing Web マスターツール AI パフォーマンス レポート ](/help/assets/overview/bing-webmaster-tools-ai-performance-report.png)
 
 Bing ウェブマスターツール AI パフォーマンスレポート
 
