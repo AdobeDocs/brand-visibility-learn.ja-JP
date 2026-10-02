@@ -1,13 +1,11 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: 7f1a3c89f4fd4a1b79a81a9fd17da588b1b8f97d
+source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '193'
 ht-degree: 0%
-
 ---
-
 
 # ブランドの可視性大学 {#tutorials}
 
@@ -27,6 +25,7 @@ ht-degree: 0%
   + [Web サイト全体を最適化する必要があるか？](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
   + [LLMs.txtは関連していますか？](abv-university/abv-related/llmstxt-is-it-relevant-june-2026.md)
 + 測定と可視性 {#measurement}
+  + [Impact Measurement Engineの仕組み](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
   + [AIを活用した可視化のための可視性スコアと指標](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
   + [エージェント型トラフィックと最適化決定](abv-university/abv-related/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.md)
   + [GEOではまだ測定できないものと、それが改善する方法](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
