@@ -51,7 +51,7 @@ ht-degree: 0%
 * Opportunity Workspaceのビフォーアフターレポートの検索場所
 * AIが最適化されたページを見ているのに、人間の訪問者には変化が見られない理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504048/?captions=jpn&learn=on){transcript=true}
 
 >[!NOTE]
 >少なくとも20個のURLを選択して、エンジンにインパクトを正確に測定するのに十分な大きさのサンプルを含めるようにします。 今日では、回復コンテンツの可視性に関する影響測定が利用可能であり、EdgeのすべてのOptimizeに拡張されています。
