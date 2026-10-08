@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility 大学
@@ -28,7 +28,23 @@ ht-degree: 3%
 Adobe Brand Visibility大学は、実践的な価値を提供するショート動画のライブラリを提供しています。このライブラリでは、AI 検索モデルや大規模言語モデルの仕組み、AIを利用して自社の認知度と評価を高める方法を解説します。 以下のトピックで参照してください。
 
 >[!NOTE]
->完全なドキュメントについては、[Adobe Brand Visibility ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/brand-visibility/using/home)を参照してください。
+>完全なドキュメントについては、[Adobe Brand Visibility ドキュメント ](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home)を参照してください。
+
+## ニュースとインサイト {#news-and-insights}
+
+最新のAI 検索の変化と、それが企業にもたらす意味。
+
+::::landing-cards-container
+:::card
+![GoogleがAIの概要でブランド名に回答するようになりました](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+GoogleがAIによる概要でブランド名に回答するようになりました
+
+GoogleのAI オーバービューがブランド名の検索に対応するようになった方法、およびSearch ConsoleとAIの回答で何を見るべきか。
+
+[視聴](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## 基礎：AI 検索の仕組み {#foundations}
 
@@ -36,7 +52,7 @@ Adobe Brand Visibility大学は、実践的な価値を提供するショート�
 
 ::::landing-cards-container
 :::card
-![LLMの仕組み：マーケター向けガイド &#x200B;](/help/assets/overview/how-llms-work-a-marketers-guide.png)
+![LLMの仕組み：マーケター向けガイド ](/help/assets/overview/how-llms-work-a-marketers-guide.png)
 
 LLMの仕組み：マーケターガイド
 
@@ -54,7 +70,7 @@ LLMの仕組み：マーケターガイド
 [視聴](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
 :::
 :::card
-![&#x200B; ペルソナとオーディエンスへのプロンプトのマッピング &#x200B;](/help/assets/overview/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.png)
+![ ペルソナとオーディエンスへのプロンプトのマッピング ](/help/assets/overview/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.png)
 
 プロンプトのペルソナおよびオーディエンスへのマッピング
 
@@ -158,6 +174,15 @@ LLMs.txtの導入に関するAEMサイト約5,000 サイトの監査と、それ
 
 ::::landing-cards-container
 :::card
+![影響測定エンジンの仕組み](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+Impact Measurement Engineの仕組み
+
+エンジンが最適化前後のAI可視性を測定し、何が変化したかを正確にレポートする方法。
+
+[視聴](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
+:::card
 ![AIの可視化のための可視性スコアと指標](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 
 AIを活用した可視化のための可視性スコアと指標
@@ -167,7 +192,7 @@ AIを活用した可視化のための可視性スコアと指標
 [視聴](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
 :::
 :::card
-![&#x200B; エージェント型トラフィックと最適化決定](/help/assets/overview/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.png)
+![ エージェント型トラフィックと最適化決定](/help/assets/overview/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.png)
 
 エージェント型トラフィックと最適化決定
 
@@ -185,7 +210,7 @@ GEOではまだ測定できないものと、それが改善する方法
 [視聴](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
 :::
 :::card
-![Bing Web マスターツール AI パフォーマンス レポート &#x200B;](/help/assets/overview/bing-webmaster-tools-ai-performance-report.png)
+![Bing Web マスターツール AI パフォーマンス レポート ](/help/assets/overview/bing-webmaster-tools-ai-performance-report.png)
 
 Bing ウェブマスターツール AI パフォーマンスレポート
 
