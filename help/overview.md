@@ -17,10 +17,10 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a4a90d98f663d4f9bebefc6687709280317583de
+source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
 workflow-type: tm+mt
-source-wordcount: '863'
-ht-degree: 3%
+source-wordcount: '944'
+ht-degree: 2%
 ---
 
 # Adobe Brand Visibility 大学
@@ -29,6 +29,22 @@ Adobe Brand Visibility大学は、実践的な価値を提供するショート�
 
 >[!NOTE]
 >完全なドキュメントについては、[Adobe Brand Visibility ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/brand-visibility/using/home)を参照してください。
+
+## ニュースとインサイト {#news-and-insights}
+
+最新のAI 検索の変化と、それが企業にもたらす意味。
+
+::::landing-cards-container
+:::card
+![GoogleがAIの概要でブランド名に回答するようになりました](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+GoogleがAIによる概要でブランド名に回答するようになりました
+
+GoogleのAI オーバービューがブランド名の検索に対応するようになった方法、およびSearch ConsoleとAIの回答で何を見るべきか。
+
+[視聴](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
 
 ## 基礎：AI 検索の仕組み {#foundations}
 
@@ -157,6 +173,15 @@ LLMs.txtの導入に関するAEMサイト約5,000 サイトの監査と、それ
 測定方法や、AIが顧客の行動を見て引用できるかどうかを示すシグナルの読み方を学びましょう。
 
 ::::landing-cards-container
+:::card
+![影響測定エンジンの仕組み](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+Impact Measurement Engineの仕組み
+
+エンジンが最適化前後のAI可視性を測定し、何が変化したかを正確にレポートする方法。
+
+[視聴](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![AIの可視化のための可視性スコアと指標](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 

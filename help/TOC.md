@@ -1,15 +1,17 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
+source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '204'
 ht-degree: 0%
 ---
 
 # ブランドの可視性大学 {#tutorials}
 
 + [概要](overview.md)
++ ニュースとインサイト {#news-and-insights}
+  + [GoogleがAIによる概要でブランド名に回答するようになりました](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 基礎：AI 検索の仕組み {#foundations}
   + [LLMの仕組み：マーケターガイド](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
   + [信頼性の高い、繰り返し可能なGEO インサイトのプロンプトの作成](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
