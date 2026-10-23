@@ -33,4 +33,4 @@ ht-degree: 0%
 * 読み取り専用の検索から、より高価値なアクションに至るまで、どこから始めればよいのか
 * Adobe Sites OptimizerとAdobe Brand Visibilityは
 
->[!VIDEO](https://video.tv.adobe.com/v/3504833/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504843/?captions=jpn&learn=on){transcript=true}

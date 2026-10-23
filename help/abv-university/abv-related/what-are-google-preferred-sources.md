@@ -32,4 +32,4 @@ ht-degree: 0%
 * 2行のHTMLまたはシンプルなリンクフォールバックを使用してボタンを追加する方法
 * Google Search Consoleで実施要件を確認し、選択内容を追跡する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504834/?captions=jpn&learn=on){transcript=true}
