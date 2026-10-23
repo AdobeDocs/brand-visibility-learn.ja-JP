@@ -1,9 +1,9 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '216'
 ht-degree: 0%
 ---
 
@@ -11,6 +11,8 @@ ht-degree: 0%
 
 + [概要](overview.md)
 + ニュースとインサイト {#news-and-insights}
+  + [Googleの優先ソース](abv-university/abv-related/what-are-google-preferred-sources.md)
+  + [WebMCPとAI エージェントによるサイトの使用方法](abv-university/abv-related/what-is-webmcp.md)
   + [GoogleがAIによる概要でブランド名に回答するようになりました](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + 基礎：AI 検索の仕組み {#foundations}
   + [LLMの仕組み：マーケターガイド](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
