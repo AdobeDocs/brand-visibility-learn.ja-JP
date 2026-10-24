@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -35,6 +35,24 @@ Adobe Brand Visibility大学は、実践的な価値を提供するショート�
 最新のAI 検索の変化と、それが企業にもたらす意味。
 
 ::::landing-cards-container
+:::card
+![Googleの優先ソースの説明](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Googleの優先ソース
+
+Googleの優先ソース機能の機能、急成長している理由、HTMLの2行に追加する方法。
+
+[視聴](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCPとAI エージェントによるサイトの使用方法](/help/assets/overview/what-is-webmcp.png)
+
+WebMCPとAI エージェントによるサイトの使用方法
+
+WebMCPを使用して、AI エージェントがAPIのようにページ上のツールを呼び出す方法、MCPとの違い、開始する場所。
+
+[視聴](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![GoogleがAIの概要でブランド名に回答するようになりました](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
