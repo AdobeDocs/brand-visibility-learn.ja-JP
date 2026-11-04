@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # 影響測定エンジンの動作
@@ -51,7 +51,7 @@ ht-degree: 0%
 * Opportunity Workspaceのビフォーアフターレポートの検索場所
 * AIが最適化されたページを見ているのに、人間の訪問者には変化が見られない理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3504048/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
->少なくとも20個のURLを選択して、エンジンにインパクトを正確に測定するのに十分な大きさのサンプルを含めるようにします。 今日では、回復コンテンツの可視性に関する影響測定が利用可能であり、EdgeのすべてのOptimizeに拡張されています。
+>少なくとも20個のURLを選択して、エンジンにインパクトを正確に測定するのに十分な大きさのサンプルを含めるようにします。 Impact measurementは、今日、Recoverコンテンツの可視性、LLMに適したサマリーの追加、目次の追加で利用でき、EdgeでのOptimizeの強化を計画しています。
