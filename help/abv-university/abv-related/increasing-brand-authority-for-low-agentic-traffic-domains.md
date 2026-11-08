@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 ---
-# 低エージェンティックトラフィック領域に対するブランド権限の強化
+# 低エージェンティックトラフィック領域に対するブランド権威の向上
 
 ブランドオーソリティは、検索順位やAIによる回答への引用の有無を決定します。 このビデオでは、AI トラフィックがまだ少ない場合でも、リンク、メンション、レピュテーションから作成し、Adobe Brand Visibilityで測定する方法を説明します。
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 * オフサイトにプッシュする前に、独自のコンテンツを正確かつ一貫性のある方法で提供したい
 * オフサイトの機会（引用センチメント、Wikipedia、Reddit、YouTube）と、バックリンクやレビューなどの古典的な手段が権威を築く方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502778/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}

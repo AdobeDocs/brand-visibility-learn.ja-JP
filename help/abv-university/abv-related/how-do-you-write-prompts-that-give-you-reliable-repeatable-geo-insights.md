@@ -28,12 +28,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 ---
-# 信頼性の高い、繰り返し可能なGEO インサイトを提供するプロンプトの書き方
+# 信頼性の高い、反復可能な、地域に関するインサイトを提供するプロンプトの書き方
 
 追跡したプロンプトをテストケースのように扱い。 このビデオでは、Adobe Brand Visibilityの現実的で具体的な、繰り返し可能なプロンプトによって、信頼性の高い安定したAIによる可視化インサイトがどのように得られるかを説明します。
 
@@ -52,4 +52,4 @@ ht-degree: 0%
 * プロンプトとその意図をバージョン管理されたログに記録することで、時間の経過とともにプロンプトの精度が向上する理由
 * 顧客設定にプロンプトをアップロードする方法、および頻繁な変更が過去のスコアに影響を与える理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502743/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}

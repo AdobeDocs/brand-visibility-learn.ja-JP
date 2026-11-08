@@ -35,12 +35,12 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# AIの可視性を測定するために、可視性スコアとは何か、どのような指標を使用する必要がありますか？
+# AIの可視性を測定するために、可視性スコアとどのような指標を使用する必要がありますか？
 
 可視性スコアは集計された指標であり、計算の方法はツールごとに異なります。 このビデオでは、Adobe Brand Visibilityが組み込む内容と、組み合わせる指標について説明します。
 
@@ -59,4 +59,4 @@ ht-degree: 0%
 * スコアが1人で行動するのが難しい北星である理由
 * メンション、引用、エージェント、リファラルトラフィックなど、ペアにする指標
 
->[!VIDEO](https://video.tv.adobe.com/v/3502904/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}

@@ -8,12 +8,12 @@ doc-type: Value Video
 duration: 135
 last-substantial-update: 2026-10-08
 jira: KT-22790
-source-git-commit: 8fadb6060644f4c5afd79457c2d2b145f2569158
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# GoogleがAIの概要でブランド名に回答します
+# Googleが、AIを利用してブランド名に回答します
 
 このビデオでは、Googleでほとんどのブランド名検索のAI概要、その変更点、および見るべき機能について説明します。
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 * 自社ブランドのAI概要と、Googleが言及しているソースを確認する方法
 * ブランドに関するAIの回答が、ランキングと同じくらい注目すべき理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3504214/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}

@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# プロンプトをペルソナにマッピングする理由と、様々なオーディエンスに合わせてプロンプトをカスタマイズする方法を考えてみましょう。
+# プロンプトをペルソナにマッピングする理由と、プロンプトを様々なオーディエンスに合わせて調整する方法を考えてみましょう。
 
 ペルソナベースのプロンプトマッピングでは、実際のユーザータイプごとにプロンプトをグループ化します。 この動画では、プロンプトをオーディエンスに合わせることで、AI回答における自社の真の立ち位置が明らかになる理由を説明します。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 * 意思決定者や学生など、ペルソナごとにトピックをクラスター化する方法
 * オーディエンス全体の可視性を平均することで、自社の認知度が低下する理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502796/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}

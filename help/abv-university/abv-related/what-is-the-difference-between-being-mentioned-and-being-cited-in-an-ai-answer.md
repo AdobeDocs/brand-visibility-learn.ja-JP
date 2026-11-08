@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -54,4 +54,4 @@ ht-degree: 0%
 * 検索（RAG）が実際の引用を生成する方法
 * 引用が、自社が証拠として使用されたことを示す強力なシグナルである理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502841/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}

@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# LLMs.txt - Is it relevant （June 2026）
+# LLMs.txt - is it relevant （June 2026）
 
 最新のデータを用いてLLMs.txtを再検討する：AEMのサイト約5,000件を監査した結果、導入とAIの引用は小さかったが、Google ボットは現在ファイルを読み取っているので、安価な保険を作成することが可能である。
 
@@ -49,4 +49,4 @@ ht-degree: 0%
 * GoogleBotがファイルを読み込むなど、最近変更されたこと
 * 引用の保証ではなく、労力の少ない保険を作成する理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3502895/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}

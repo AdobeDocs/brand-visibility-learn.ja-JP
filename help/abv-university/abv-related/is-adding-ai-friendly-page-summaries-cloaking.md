@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 ---
-# Aiに適したページ概要を追加するとクロージングが発生しますか？
+# AIに適したページ概要を追加することはクロージングですか？
 
 簡単に答えると「いいえ」。 このビデオでは、Google独自の定義を使用して、AI エージェントのEdge サマリーで最適化を行う理由と、完全に制御する方法について説明します。
 
@@ -54,4 +54,4 @@ ht-degree: 0%
 * エッジ最適化が現在、検索web クローラーではなくAI ボットにのみサービスを提供している方法
 * CDNから数秒で最適化をロールバックする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502862/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
