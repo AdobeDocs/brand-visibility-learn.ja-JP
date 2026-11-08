@@ -32,4 +32,4 @@ ht-degree: 0%
 * 自社ブランドのAI概要と、Googleが言及しているソースを確認する方法
 * ブランドに関するAIの回答が、ランキングと同じくらい注目すべき理由
 
->[!VIDEO](https://video.tv.adobe.com/v/3504213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504214/?captions=jpn&learn=on){transcript=true}
