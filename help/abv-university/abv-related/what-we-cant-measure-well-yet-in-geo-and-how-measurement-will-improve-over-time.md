@@ -29,12 +29,12 @@ topic_v2:
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 ---
-# GEOではまだ測定できないことと、長期的に測定する方法について説明します
+# GEOではまだ上手く測定できないものと、時間の経過とともに測定がどのように改善されるかです
 
 位置情報の測定は困難です。AIは決定論的ではなく、地域、最新性、パーソナライゼーションに合わせて変化するためです。 この動画では、測定するのが難しい今日の状況と、その改善方法について解説します。
 

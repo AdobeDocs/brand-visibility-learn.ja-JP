@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 ---
-# Web サイト全体を最適化する必要があるか？
+# web サイト全体を最適化する必要があるか？
 
 いいえ。 Adobe Brand Visibility （旧LLM Optimizer）では、最適化するページを決め、選択しないページはすべて現在と同じように表示されます。 このビデオでは、ページごとの制御がどのように機能するかを説明します。
 

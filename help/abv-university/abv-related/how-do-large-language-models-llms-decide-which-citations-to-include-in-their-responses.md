@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# 大規模言語モデル LLMは、応答にどの引用を含めるかを決定するにはどうすればよいですか？
+# 大規模言語モデル LLMは、回答に含める引用をどのように決定しますか？
 
 LLMは、単一のプロンプトを多数の小さなクエリに展開し、それらのクエリ全体で最もパフォーマンスの高いソースを挙げています。 この動画では、引用の意味を説明しています。
 

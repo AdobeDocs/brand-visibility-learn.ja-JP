@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# LLMがWeb サイトを正しくクロールおよび解釈するのに役立つ技術基準は何ですか？
+# LLMがweb サイトを正しくクロールし、解釈するのに役立つ技術的な基本は何ですか？
 
 LLM エクスペリエンスは、クロール、インデックス作成、レンダリングなど、検索と同じweb インフラストラクチャに依存しています。 このビデオでは、コンテンツを表示および引用に適した状態に保つための技術的な基本について説明します。
 
