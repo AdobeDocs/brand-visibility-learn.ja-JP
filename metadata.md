@@ -8,11 +8,11 @@ usetq: true
 type: Tutorial
 description: ブランドの可視性ドキュメント：
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/brand-visibility-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
 index: true
-nudge: true
+nudge: republish
 recommendations: noDisplay
-source-git-commit: b99f17fe91c1eebfaa7710cd7f4729716d24ba07
+source-git-commit: bf8f2c9e093404158d59126e3c66d41be8451dde
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトレベルのメタデータが含まれています。 任意のユーザーガイドのmetadata.md コンテンツを変更する場合は、任意のTOC.md ファイルで変更します。
 
-**solution**、**product**、**type**&#x200B;の有効な値のリストについては、[&#x200B; メタデータ &#x200B;](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)を参照してください。
+**solution**、**product**、**type**&#x200B;の有効な値のリストについては、[ メタデータ ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)を参照してください。
