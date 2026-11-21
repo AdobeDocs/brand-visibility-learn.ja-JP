@@ -1,9 +1,9 @@
 ---
 user-guide-title: ブランドの可視性チュートリアル
 user-guide-description: ブランドの可視性チュートリアル
-source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
+source-git-commit: 3af4fa67a4f8c22a9f89abf1108a3eb28d6ef871
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 
@@ -41,3 +41,5 @@ ht-degree: 0%
   + [AI ブランド回答における地域の違いを監視する方法](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
   + [ブランドに関するAIの回答を定期的に監視する理由](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
   + [AIの回答でセンチメントが重要な理由（とその限界）](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ ブランドの可視性の実際 {#in-action}
+  + [コンテンツの鮮度の向上](abv-university/abv-related/content-freshness.md)
